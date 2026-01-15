@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: F4.Ending2
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: e85b07cd56bfcbd4e9115a5c1d8b175e, type: 3}
+  storyText: "Oso lo ha conseguido. Ha remplazado su sombrero por otro del mismo
+    estilo y por fin est\xE1 dispuesto a continuar con su d\xEDa a d\xEDa junto a
+    su nuevo amigo Rat\xF3n. \r\n\r\n\xC9l sabe a la perfecci\xF3n que ese no es
+    su sombrero real pero desde lo m\xE1s profundo de su coraz\xF3n sabe que el legado
+    de su familia seguir\xE1 con \xE9l hasta el final de sus d\xEDas.\r\n\r\nEste
+    es el final.\r\n\r\nOso est\xE1 conforme con lo que ahora es nuevo para \xE9l.\r\n\r\nFinal
+    Sustituto\r\n\r\nPresione Enter para volver a la pantalla de inicio. "
+  nextStates:
+  - {fileID: 11400000, guid: 69896476eedfee34ab48e594ec7a86fb, type: 2}

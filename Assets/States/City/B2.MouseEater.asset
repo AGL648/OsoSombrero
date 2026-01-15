@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: B2.MouseEater
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: f640a6aa5a52c124e9b1ce0037ca5811, type: 3}
+  storyText: "Oso activa su propio apetito y se zampa al rat\xF3n sin pens\xE1rselo
+    dos veces. Se lo zampa de un bocado y hasta lo encuentra delicioso pero no es
+    suficiente como para olvidarse del dilema de su sombrero. \r\n\r\n\xBFQu\xE9
+    deber\xEDa hacer Oso ahora?\r\n\r\n1. Buscar en los bosques\r\n\r\n2. Irse al
+    circo\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 03551126f05d8c446bd23d95c8b42d6e, type: 2}
+  - {fileID: 11400000, guid: da3dfc3a13e3c8f4599515e276b626eb, type: 2}

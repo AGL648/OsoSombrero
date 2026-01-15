@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: C1.SonioAppearance
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 04988fd2bf9611e4da9fe1fcde60123a, type: 3}
+  storyText: "Sin embargo, antes de que pueda causar m\xE1s maremotos el espectacular
+    e incre\xEDble mejor pato de la regi\xF3n, Sonio, hace acto de presencia nadando
+    entre su mar de l\xE1grimas.\r\n\r\nSonio al llegar donde se encuentra Oso no
+    se corta en decirte que \"Mira, para lloriqueos, a llorar en la llorer\xEDa,
+    pero si quieres recuperar tu sombrerito de ayer entonces tienes que mantenerte
+    firme y no parar de buscar ese sombrero. Entonces ahora, oso pardo de las monta\xF1as
+    del norte, \xBFqu\xE9 decides hacer al respecto?\r\n \r\n1. Ponerte de pie y
+    dejar de llorar\r\n\r\n2. Zamparte a Sonio por estar encima de la cadena alimenticia"
+  nextStates:
+  - {fileID: 11400000, guid: be810b86f8c094c4b82e09f9eba65624, type: 2}
+  - {fileID: 11400000, guid: 652bfc3c65c26714caba1996277b9804, type: 2}

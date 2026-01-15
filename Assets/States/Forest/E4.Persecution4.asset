@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: E4.Persecution4
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 2f676601a0e1df14e825cd123d94316c, type: 3}
+  storyText: "Oso para en seco para fortuna de Liebre, sin embargo su fortuna poco
+    a poco se transforma en mala suerte pues \xE9l directamente va y se come un \xE1rbol
+    en toda la cara, cay\xE9ndose al suelo de rebote.\r\n\r\nOUCH!\r\n\r\nEso tiene
+    que doler\r\n\r\nPresiona Enter para entrar en desenlace"
+  nextStates:
+  - {fileID: 11400000, guid: 69f7c0fa28190f240bfd9f83eab21ab1, type: 2}

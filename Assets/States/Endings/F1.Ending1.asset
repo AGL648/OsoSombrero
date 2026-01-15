@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: F1.Ending1
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 5877f94f0fd6a374d97cbf2a3173c2d8, type: 3}
+  storyText: "Oso lo ha conseguido. Ha podido recuperar su sombrero, el \xFAnico
+    legado que tiene de su familia.\r\n\r\nMientras se lo pone de vuelta mira con
+    firmeza el cuerpo desmayado de Liebre quien se encuentra ahora en un sue\xF1o
+    muy profundo.\r\n\r\n\xC9l podr\xEDa ir y hac\xE9rselo saber al sargento Zorro
+    para que \xE9ste lo discipline pero esa no es su decisi\xF3n, todo depender\xE1
+    del estilo de vida que Liebre decida llevar durante su breve pero intensa vida
+    forestal.\r\n\r\nSin nada m\xE1s que hacer, Oso se larga del bosque junto a su
+    reci\xE9n recuperado sombrero y se dirige hacia el horizonte, expectante de los
+    siguientes planes que le depare su destino, como oso pardo que \xE9l camina orgulloso
+    de ser\r\n\r\nFinal Verdadero\r\n\r\nPresione Enter para volver a la pantalla
+    de inicio. "
+  nextStates:
+  - {fileID: 11400000, guid: 69896476eedfee34ab48e594ec7a86fb, type: 2}

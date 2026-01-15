@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: A12.Ciervo2
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 24ad1d6df0da1d445a84bb93c5814b8b, type: 3}
+  storyText: "Oso le pregunta al paisano se\xF1or Ciervo si \xE9ste ha visto su sombrero
+    pero el mismo le pregunta qu\xE9 tipo de sombrero es.\r\n\xBFQu\xE9 deber\xEDa
+    hacer Oso ahora?\r\n\r\n1. Insistirle\r\n\r\n2. Seguir buscando\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 2dfc2b667e4c860458f46a92681462ec, type: 2}
+  - {fileID: 11400000, guid: 051645f3c74654a429908372a3aae105, type: 2}

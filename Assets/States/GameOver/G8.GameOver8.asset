@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: G8.GameOver8
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: c257a7505db880c4196484d6b7f2ac61, type: 3}
+  storyText: "Oso se pone el gorro de color rojo.\r\n\r\nOso no debi\xF3 de haber
+    hecho eso.\r\n\r\nNo debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3
+    No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3
+    No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3
+    No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3 No debi\xF3
+    No debi\xF3 No debi\xF3 No deb-\r\n \r\n Oso ha recibido un Cease & Desist. Oso
+    ya no puede ser Oso por m\xE1s tiempo. Oso no los puede vencer\r\n\r\nFinal DMCA\r\n\r\nPresiona
+    Enter para volver a intentarlo. "
+  nextStates:
+  - {fileID: 11400000, guid: bcc5539e716245d4ab6b62c19b42bf9c, type: 2}

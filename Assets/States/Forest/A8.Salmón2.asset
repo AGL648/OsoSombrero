@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: "A8.Salm\xF3n2"
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 02cb71cc34eb5174680e1bf5f6137cac, type: 3}
+  storyText: "Oso le pregunta al ornit\xF3logo Salm\xF3n si \xE9ste sabe si ha visto
+    su sombrero pero \xE9l se disculpa por no haber visto ninguno.\r\n\r\n\xBFQu\xE9
+    deber\xEDa hacer Oso ahora?\r\n\r\n1. Insistirle\r\n\r\n2. Seguir buscando\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: d1bbbcf31abe7c7468d61e9b50b44108, type: 2}
+  - {fileID: 11400000, guid: 618f1b348a362cb41af59e3b63ea7c2a, type: 2}

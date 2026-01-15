@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: B.EnteringCity
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 9766db1509e81fa43b2109457f8ba5b9, type: 3}
+  storyText: "Oso decide empezar buscando su sombrero por la ciudad, la cual se encuentra
+    muy concurrida de gente. Oso piensa que igual ellos tomaron su sombrero por error,
+    por lo que se dirige hacia all\xED. \xBFQu\xE9 deber\xEDa Oso hacer ahora?\r\n\r\n1.
+    Preguntar a los humanos si saben donde est\xE1\r\n\r\n2. Pasar desapercibido\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 9324203afa135b244a119caab2fb1e0f, type: 2}
+  - {fileID: 11400000, guid: e3758e87826a9344f8ec1053a79d69d1, type: 2}

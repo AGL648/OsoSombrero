@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: G2.GameOver2
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 3e5e320c15c5f0247a375737c666f87d, type: 3}
+  storyText: "Oso decide preguntarle a los humanos a ver que tal, sin embargo no
+    contaba conque los humanos no saben que los osos saben hablar por lo que todos
+    huyen despavoridos, llega la polic\xEDa, los medios e agentes del \xC1rea 51
+    para capturarlo y llevarlo a experimentaci\xF3n.\r\n\r\nA partir de aqu\xED muchas
+    cosas pasan, animales y humanos se dan cuenta de la verdad, se produce una guerra
+    a gran escala entre humanos y animales en el que al final los animales ganan
+    y coronan a Oso como su nuevo l\xEDder para un mundo prospero de animales que
+    nada m\xE1s arreglaran los errores que los humanos han causado por milenios.\r\n\r\nSin
+    embargo, Oso todav\xEDa est\xE1 muy triste despu\xE9s de todo lo antes pasado.\r\n\r\nEs
+    m\xE1s que obvio, que su sombrero no ha sido encontrado :(\r\n\r\nFinal Ca\xF3tico\r\n\r\nPresiona
+    Enter para volver a empezar. "
+  nextStates:
+  - {fileID: 11400000, guid: bcc5539e716245d4ab6b62c19b42bf9c, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: "A17.Colibr\xED3"
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 7d809a585166f06419ff30be364a6d39, type: 3}
+  storyText: "Realmente pierdes mucho tiempo insisti\xE9ndole a alguien una cosa
+    que ni siquiera sabe qu\xE9 es en espec\xEDfico.\r\n\r\nAdem\xE1s, Oso conf\xEDa
+    mucho en ella. \xC9l sabe de antemano que ella nunca le mentir\xEDa.\r\n\r\nPresiona
+    Enter para seguir buscando.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: e00d6228a3d405947b016a502be7191f, type: 2}

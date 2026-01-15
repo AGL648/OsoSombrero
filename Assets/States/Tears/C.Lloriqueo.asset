@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: C.Lloriqueo
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: ee2439de4850657438633b9d4a8d32ca, type: 3}
+  storyText: "Oso no puede evitar sentirse triste por la p\xE9rdida de su preciado
+    sombrero y se pone a llorar a chorros como si el mundo se le cayera encima, estando
+    por provocar una inundaci\xF3n por toda la regi\xF3n.\r\n\r\nAlguien lo puede
+    culpar acaso. Acaba de perder su sombrero.\r\n\r\nPresiona F para mostrar tus
+    condolencias"
+  nextStates:
+  - {fileID: 11400000, guid: 812cf91dcefa2a84c89436f02b4bcf9a, type: 2}

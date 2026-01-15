@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: B1.AvoidingHumans
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 971758264b9800747beb8435fe9918a6, type: 3}
+  storyText: "Oso se da cuenta de que no puede mezclarse con los humanos gracias
+    al sabio consejo que su tatarabuelo Ursa le hizo acerca de los peligros que acarrean
+    los mismos por lo que se esconde en un callej\xF3n para poder pasar desapercibido.\r\n\r\nA
+    todo esto, se encuentra con un peque\xF1o rat\xF3n quien pregunta por su ahora
+    delicada situaci\xF3n.\r\n\r\n\xBFQu\xE9 deber\xEDa hacer Oso ahora?\r\n\r\n1.
+    Comerse al rat\xF3n\r\n\r\n2. Contarle el dilema de su sombrero\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: be6a516cf0a56d943b53f6b2bb28a8c3, type: 2}
+  - {fileID: 11400000, guid: ffa8dbd677082aa4fb0ab500608befb8, type: 2}

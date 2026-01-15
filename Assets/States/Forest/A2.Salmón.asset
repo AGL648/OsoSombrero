@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: "A2.Salm\xF3n"
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: c8db956060a08894eb53d065824b16d7, type: 3}
+  storyText: "Oso sigue buscando hasta encontrar un r\xEDo por el que el agua fluye
+    sin cesar. En \xE9l el ornit\xF3logo Salm\xF3n est\xE1 refresc\xE1ndose como
+    siempre.\r\n\r\n\xBFQu\xE9 deber\xEDa Oso hacer ahora?\r\n\r\n1. Seguir buscando\r\n\r\n2.
+    Preguntarle\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 618f1b348a362cb41af59e3b63ea7c2a, type: 2}
+  - {fileID: 11400000, guid: 945d5235b4aed104e904684bc84e8e6a, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: A10.Zorro2
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 4b0d59b75e1197e45bbdda4409a14e93, type: 3}
+  storyText: "Oso le pregunta al sargento Zorro si \xE9ste sabe si ha visto su sombrero
+    pero \xE9l le afirma que no ha divisado ning\xFAn sombrero en \xE1rea despejada.\r\n\r\n\xBFQu\xE9
+    deber\xEDa hacer Oso ahora?\r\n\r\n1. Insistirle\r\n\r\n2. Seguir buscando\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 3d9c542757fd5d24da309b59c680b3fe, type: 2}
+  - {fileID: 11400000, guid: ab697f07345f4864cb895f05f6f7ae3a, type: 2}

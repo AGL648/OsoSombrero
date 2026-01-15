@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: G6.GameOver6
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: 977acbe22a75f6146979268bb9f29b2a, type: 3}
+  storyText: "Oso intenta esquivarlo pero por la adrenalina \xE9l va y se come un
+    \xE1rbol.\r\n\r\nLiebre hace una burla y se larga con el sombrero puesto.\r\n\r\nOso
+    est\xE1 aturdido\r\n \r\nPresiona Enter para volver a intentarlo "
+  nextStates:
+  - {fileID: 11400000, guid: 2bc81e6a1d44311458e9884061fe94b9, type: 2}

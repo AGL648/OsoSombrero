@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffa066fd01e3c24eac094ec91d41713, type: 3}
+  m_Name: A.Forest
+  m_EditorClassIdentifier: 
+  Square: {fileID: 21300000, guid: f19000c69d17dfe4396672ae47538a42, type: 3}
+  storyText: "Oso decide buscar su sombrero por los bosques, unos bosques que \xE9l
+    conoce muy bien. Sin embargo busca un sombrero en un bosque es como intentar
+    encontrar una aguja de un pajar, por lo que deber\xE1 estar muy atento en todo
+    momento.\r\n\r\n\xBFQu\xE9 deber\xEDa Oso hacer ahora?\r\n\r\n1. Seguir buscando\r\n\r\n2.
+    Preguntar a un cazador\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 35eb20c904b1f0e46a9321c379a7316c, type: 2}
+  - {fileID: 11400000, guid: f5d3473edfee10b4a84d13168b95c142, type: 2}
